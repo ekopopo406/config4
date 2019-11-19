@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: config4
+  profiles:
+    active: Local
+server:
+  port: 8887
+
+
