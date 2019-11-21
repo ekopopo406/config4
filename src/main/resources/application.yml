@@ -1,9 +1,8 @@
+---
 spring:
   application:
-    name: config4
+    name: "config4"
   profiles:
-    active: Local
+    active: "Local"
 server:
-  port: 8887
-
-
+  port: "43214"
